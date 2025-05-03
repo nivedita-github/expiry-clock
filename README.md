@@ -45,12 +45,16 @@ Export to CSV
 
 🏗️ Project Structure
 Expiry-Clock/
-├── main.py 
-├── database.db       
-├── icon/              
+
+├── main.py
+
+├── database.db
+
+├── icon/             
 │   ├── add.png
 │   ├── cart.png
 │   └── ...
+
 ├── README.md          
 
 
