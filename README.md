@@ -45,14 +45,13 @@ Export to CSV
 
 🏗️ Project Structure
 Expiry-Clock/
-├── main.py            # Main application entry
-├── database.db        # SQLite database (auto-created)
-├── icon/              # Toolbar icons
+├── main.py 
+├── database.db       
+├── icon/              
 │   ├── add.png
 │   ├── cart.png
 │   └── ...
-├── README.md          # This file
-└── requirements.txt   # Dependencies
+├── README.md          
 
 
 🔧 Technical Details
