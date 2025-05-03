@@ -43,20 +43,6 @@ Generate Reports:
 Filter sales by date range
 Export to CSV
 
-🏗️ Project Structure
-Expiry-Clock/
-
-├── main.py
-
-├── database.db
-
-├── icon/             
-│   ├── add.png
-│   ├── cart.png
-│   └── ...
-
-├── README.md          
-
 
 🔧 Technical Details
 Database: SQLite with automatic schema migration
